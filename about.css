@@ -2,6 +2,7 @@ body{
   background-color: 	#FFEBCD;
     /* For browsers that do not support gradients */
     background-image: linear-gradient(white,pink, rgb(234, 234, 93),rgb(49, 253, 49));
+  overflow-x:hidden;
 
 }
 
