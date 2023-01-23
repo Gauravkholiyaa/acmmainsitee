@@ -96,9 +96,7 @@
     transform: rotateY(180deg);
 }
 
-.icon {
-    padding-top: 40px;
-}
+
 .logo {
 
 
@@ -113,16 +111,13 @@
     padding: 5rem;
 }
 .icon {
+    font-size:1.5rem;
     padding-top: 40px;
     text-align: center;
 }
 #map {
     text-align: center;
     
-}
-
-.icon{
-    font-size: 4rem;
 }
 .d-block {
     height: 500px;
