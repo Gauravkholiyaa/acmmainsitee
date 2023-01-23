@@ -1,0 +1,78 @@
+body{
+overflow-x: hidden;
+}
+#testimonials {
+  background-color: #ef8172;
+}
+
+.d-block{
+  height:700px;
+}
+.anc{
+  padding-top: 50px;
+}
+.last-section{
+  padding-top: 60px;
+  text-align: center;
+  background-color: grey;
+  padding-bottom:40px;
+}
+.icon{
+  padding-top: 50px;
+  text-align: center;
+}
+.section1{
+  padding:5rem;
+  padding-bottom: 0rem;
+}
+#heading{
+  padding-bottom: 2rem;
+}
+.section2{
+  padding:7rem;
+}
+.a{
+  padding-bottom:5rem;
+}
+.carousel-item {
+  padding-bottom: 5rem;
+}
+@media(max-width:1024px)
+{
+    .navbar-brand {
+      font-size: 3rem;
+    }
+  
+    #item1 {
+      font-size: 2rem;
+    }
+  
+    #item2 {
+      font-size: 2rem;
+    }
+  
+    #item3 {
+      font-size: 2rem;
+    }
+  
+    #a {
+      font-size: 2rem;
+    }
+  
+    #b {
+      font-size: 2rem;
+    }
+  
+    #c {
+      font-size: 2rem;
+    }
+        .social-icon {
+          font-size: 40px;
+        }
+        .am{
+          font-size:2.5rem;
+        }
+        .am1{
+          font-size:3rem;
+        }
+}
